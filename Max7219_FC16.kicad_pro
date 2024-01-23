@@ -445,6 +445,10 @@
       {
         "netclass": "PWR",
         "pattern": "GND"
+      },
+      {
+        "netclass": "PWR",
+        "pattern": "*V*"
       }
     ]
   },
