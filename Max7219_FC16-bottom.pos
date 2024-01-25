@@ -1,0 +1,19 @@
+### Footprint positions - created on Thursday, January 25, 2024 at 12:03:55 AM ###
+### Printed by KiCad version 7.0.9
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val          Package                                        PosX       PosY       Rot  Side
+C5        0.1          C_0402_1005Metric                           37.2846   -43.2816    0.0000  bottom
+C6        10           C_0402_1005Metric                           37.3354   -44.5008    0.0000  bottom
+C7        0.1          C_0402_1005Metric                           45.4686   -62.2958  180.0000  bottom
+C8        0.1          C_0402_1005Metric                           40.7898   -63.0070  180.0000  bottom
+J1        USB_B_Micro  USB_Micro-B_Amphenol_10118194_Horizontal   155.1386   -53.0000  -90.0000  bottom
+R5        10k          R_0402_1005Metric                           47.3456   -46.6070  -90.0000  bottom
+R6        1k           R_0402_1005Metric                           49.7586   -46.5990  -90.0000  bottom
+R7        1k           R_0402_1005Metric                           43.2562   -44.8076  -90.0000  bottom
+R8        0            R_0402_1005Metric                           43.6372   -62.5244  -90.0000  bottom
+R9        0            R_0402_1005Metric                           42.6466   -62.5224  -90.0000  bottom
+R10       10k          R_0402_1005Metric                           48.6664   -57.2940  -90.0000  bottom
+U9        C3Mini       ESP32-C3-MINI-1                             37.5920   -54.6000  -90.0000  bottom
+U10       AP2112K-3.3  SOT-23-5                                    40.3805   -44.2316  180.0000  bottom
+## End
